@@ -1,0 +1,23 @@
+{
+  "go.testEnvVars": {
+    "INTEGRATION": "1"
+  },
+  "cSpell.words": [
+    "akamensky",
+    "argparse",
+    "flowrate",
+    "Geohash",
+    "geostore",
+    "gomock",
+    "gonic",
+    "Horz",
+    "maxdistance",
+    "mockgen",
+    "mongoila",
+    "quadtree",
+    "Quadtrees",
+    "ruok",
+    "swaggo"
+  ],
+  // "go.formatTool": "golines",
+}
